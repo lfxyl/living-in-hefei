@@ -3,5 +3,5 @@
 
 # 宏观政策
 
-[相关政策](/policy/overview.md)
+[相关政策](policy/overview.md)
 
