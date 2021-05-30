@@ -7,4 +7,4 @@
 
 [基础设施](policy/facilities.md)
 
-[看房记录](viewing-record/records.md)
+[看房记录](viewing-records/records.md)
