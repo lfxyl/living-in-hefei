@@ -5,3 +5,6 @@
 
 [相关政策](policy/overview.md)
 
+[基础设施](policy/facilities.md)
+
+[看房记录](view record/records.md)
