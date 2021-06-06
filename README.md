@@ -8,3 +8,5 @@
 [基础设施](policy/facilities.md)
 
 [看房记录](viewing-records/records.md)
+
+[楼盘信息](communities/communities.md）
